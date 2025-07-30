@@ -109,10 +109,11 @@ GENDER:
 
 ---
 
-##  Sample Visuals
-<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/685b6c03-aeb7-4474-912d-dd271b5169a5" />
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/60a1ab98-8e7c-4d70-975d-ef75c7aa3608" />
-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/9d3f5996-6f5e-4b13-972d-ec5e1647cb45" />
+## Sample Visuals
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71243799/46863223-685c-40a3-a67b-474f1912d4cd" alt="Screenshot 1" width="1920" height="1080">
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71243799/46863307-60a1-4b98-8e2c-4d70-975d-c175ca358069" alt="Screenshot 2" width="1920" height="1080">
 
 - Sales over time plot
 - Category distribution

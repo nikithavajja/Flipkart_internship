@@ -140,5 +140,5 @@ This project is under Git version control:
 
 ##  Author
 
-**Vangara Yaswanth Sai**  
+**Vajja Sri Nikitha**  
 *Flipkart Data Pipeline Task-1 Project*
